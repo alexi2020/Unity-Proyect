@@ -1,0 +1,1400 @@
+fileFormatVersion: 2
+guid: 51d27418ae61fd74498aca5b1b9dc1ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7392267391715846549
+    second: pngocean.com (3)_0
+  - first:
+      213: 7059138957412764794
+    second: pngocean.com (3)_1
+  - first:
+      213: -5923650612832333719
+    second: pngocean.com (3)_2
+  - first:
+      213: 8961756613461811390
+    second: pngocean.com (3)_3
+  - first:
+      213: 4162868218049747808
+    second: pngocean.com (3)_4
+  - first:
+      213: -4423126429172661058
+    second: pngocean.com (3)_5
+  - first:
+      213: -6588699393840386700
+    second: pngocean.com (3)_6
+  - first:
+      213: -1262169185825549479
+    second: pngocean.com (3)_7
+  - first:
+      213: 541984927657902884
+    second: pngocean.com (3)_8
+  - first:
+      213: -7912615652101691772
+    second: pngocean.com (3)_9
+  - first:
+      213: 2489770467615454382
+    second: pngocean.com (3)_10
+  - first:
+      213: 7771884436791804782
+    second: pngocean.com (3)_11
+  - first:
+      213: -6419639833250608142
+    second: pngocean.com (3)_12
+  - first:
+      213: 892675550117790169
+    second: pngocean.com (3)_13
+  - first:
+      213: 8079861468830859053
+    second: pngocean.com (3)_14
+  - first:
+      213: 278608625146937129
+    second: pngocean.com (3)_15
+  - first:
+      213: -3755461617394479999
+    second: pngocean.com (3)_16
+  - first:
+      213: -7776830121014656914
+    second: pngocean.com (3)_17
+  - first:
+      213: 5968830913093452904
+    second: pngocean.com (3)_18
+  - first:
+      213: 8127213116347189330
+    second: pngocean.com (3)_19
+  - first:
+      213: -5107837081611199714
+    second: pngocean.com (3)_20
+  - first:
+      213: 6190893867355399419
+    second: pngocean.com (3)_21
+  - first:
+      213: -7412166251114118448
+    second: pngocean.com (3)_22
+  - first:
+      213: -3749297394505274936
+    second: pngocean.com (3)_23
+  - first:
+      213: -7307656378652821566
+    second: pngocean.com (3)_24
+  - first:
+      213: -830483294422714320
+    second: pngocean.com (3)_25
+  - first:
+      213: 2654425025968476916
+    second: pngocean.com (3)_26
+  - first:
+      213: 4904983952060626632
+    second: pngocean.com (3)_27
+  - first:
+      213: -1423675439827571340
+    second: pngocean.com (3)_28
+  - first:
+      213: 1214990822506795106
+    second: pngocean.com (3)_29
+  - first:
+      213: -272366472504364888
+    second: pngocean.com (3)_30
+  - first:
+      213: -2246996035760049481
+    second: pngocean.com (3)_31
+  - first:
+      213: -1533425130752995627
+    second: pngocean.com (3)_32
+  - first:
+      213: 3883773687921913004
+    second: pngocean.com (3)_33
+  - first:
+      213: -9017177422991477205
+    second: pngocean.com (3)_34
+  - first:
+      213: -5450161750770896945
+    second: pngocean.com (3)_35
+  - first:
+      213: -3418625211937938882
+    second: pngocean.com (3)_36
+  - first:
+      213: -7972199847567562244
+    second: pngocean.com (3)_37
+  - first:
+      213: 7373543596437331655
+    second: pngocean.com (3)_38
+  - first:
+      213: -702868872066714835
+    second: pngocean.com (3)_39
+  - first:
+      213: -2691232808792273766
+    second: pngocean.com (3)_40
+  - first:
+      213: 8668509558888122763
+    second: pngocean.com (3)_41
+  - first:
+      213: -8477692819886547453
+    second: pngocean.com (3)_42
+  - first:
+      213: -5083453447551534401
+    second: pngocean.com (3)_43
+  - first:
+      213: 4190163998768687016
+    second: pngocean.com (3)_44
+  - first:
+      213: 7423252941449309023
+    second: pngocean.com (3)_45
+  - first:
+      213: 6873592643813557246
+    second: pngocean.com (3)_46
+  - first:
+      213: 6929800101222714492
+    second: pngocean.com (3)_47
+  - first:
+      213: 3634328748618887143
+    second: pngocean.com (3)_48
+  - first:
+      213: -6015127862747722973
+    second: pngocean.com (3)_49
+  - first:
+      213: -4212075014433119789
+    second: pngocean.com (3)_50
+  - first:
+      213: 16909679217342142
+    second: pngocean.com (3)_51
+  - first:
+      213: -1078322956324749867
+    second: pngocean.com (3)_52
+  - first:
+      213: -8615818724793732075
+    second: pngocean.com (3)_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngocean.com (3)_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 568
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66d21029f3696990800000000000000
+      internalID: -7392267391715846549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 568
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c85b81b7917f160800000000000000
+      internalID: 7059138957412764794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 568
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9609a980727facda0800000000000000
+      internalID: -5923650612832333719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 568
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb026e4982e8e5c70800000000000000
+      internalID: 8961756613461811390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_4
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 568
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b5e97a69a75c930800000000000000
+      internalID: 4162868218049747808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 568
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4858882f5ed92c0800000000000000
+      internalID: -4423126429172661058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_6
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 568
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47def4a4fcc3094a0800000000000000
+      internalID: -6588699393840386700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_7
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 568
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9539c6010dfdb7ee0800000000000000
+      internalID: -1262169185825549479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_8
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 568
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4234aae8b64858700800000000000000
+      internalID: 541984927657902884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 455
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486684cbcfdb03290800000000000000
+      internalID: -7912615652101691772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 455
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea43a768c017d8220800000000000000
+      internalID: 2489770467615454382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 455
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63cc52d7b74bdb60800000000000000
+      internalID: 7771884436791804782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 455
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb4629959bd8e6a0800000000000000
+      internalID: -6419639833250608142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_13
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 455
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d18278eeab636c00800000000000000
+      internalID: 892675550117790169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_14
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 455
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f770c623f612070800000000000000
+      internalID: 8079861468830859053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_15
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 455
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f3e358111ddd300800000000000000
+      internalID: 278608625146937129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_16
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 455
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c86976e8be1ebc0800000000000000
+      internalID: -3755461617394479999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_17
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 455
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e600d565536231490800000000000000
+      internalID: -7776830121014656914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 341
+        width: 40
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8644e4b571c85d250800000000000000
+      internalID: 5968830913093452904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 341
+        width: 41
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25805cdf449a9c070800000000000000
+      internalID: 8127213116347189330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 341
+        width: 41
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b1ffb9c315d19b0800000000000000
+      internalID: -5107837081611199714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_21
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 341
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4ecddeb297ae550800000000000000
+      internalID: 6190893867355399419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 341
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d24432e012b22990800000000000000
+      internalID: -7412166251114118448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_23
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 341
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9273362e1d7fbc0800000000000000
+      internalID: -3749297394505274936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_24
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 341
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7f7c1cd3df59a90800000000000000
+      internalID: -7307656378652821566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_25
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 341
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038b90408d78974f0800000000000000
+      internalID: -830483294422714320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_26
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 341
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f212c35f7966d420800000000000000
+      internalID: 2654425025968476916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 227
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6b09baae0021440800000000000000
+      internalID: 4904983952060626632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 227
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d21adfab61e3ce0800000000000000
+      internalID: -1423675439827571340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_29
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 227
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26090ec37b38cd010800000000000000
+      internalID: 1214990822506795106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_30
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 227
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0b6a5e22c583cf0800000000000000
+      internalID: -272366472504364888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 227
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2bfc4b20111d0e0800000000000000
+      internalID: -2246996035760049481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_32
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 227
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de8fcfc7fd28bae0800000000000000
+      internalID: -1533425130752995627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_33
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 227
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac2890979fe5e530800000000000000
+      internalID: 3883773687921913004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_34
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 227
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26bbe9a8ec8cd280800000000000000
+      internalID: -9017177422991477205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_35
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 227
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf21ec83c22d54b0800000000000000
+      internalID: -5450161750770896945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_36
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 113
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32ae3e7b7a9e80d0800000000000000
+      internalID: -3418625211937938882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 113
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9ef472a7e0d5190800000000000000
+      internalID: -7972199847567562244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_38
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 113
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ced08195d6145660800000000000000
+      internalID: 7373543596437331655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_39
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 113
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23b8cc1c78ee36f0800000000000000
+      internalID: -702868872066714835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_40
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 113
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c4f08e402d6aad0800000000000000
+      internalID: -2691232808792273766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_41
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 113
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89ca9d148bbc4870800000000000000
+      internalID: 8668509558888122763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_42
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 113
+        width: 103
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e58cb0c4f295a80800000000000000
+      internalID: -8477692819886547453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_43
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 113
+        width: 103
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbab472d502f379b0800000000000000
+      internalID: -5083453447551534401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_44
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 113
+        width: 103
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7ec39d4f3762a30800000000000000
+      internalID: 4190163998768687016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_45
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ba5fc5831b40760800000000000000
+      internalID: 7423252941449309023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3ce397718e36f50800000000000000
+      internalID: 6873592643813557246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_47
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c88d5f9789b2060800000000000000
+      internalID: 6929800101222714492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_48
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef2b6acdbabf6230800000000000000
+      internalID: 3634328748618887143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_49
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b0e5e0419f58ca0800000000000000
+      internalID: -6015127862747722973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_50
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d16a654714bb85c0800000000000000
+      internalID: -4212075014433119789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_51
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 0
+        width: 103
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6f30f73431c3000800000000000000
+      internalID: 16909679217342142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_52
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 0
+        width: 103
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd3d130cf60901f0800000000000000
+      internalID: -1078322956324749867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngocean.com (3)_53
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 0
+        width: 103
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514b283b4867e6880800000000000000
+      internalID: -8615818724793732075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
